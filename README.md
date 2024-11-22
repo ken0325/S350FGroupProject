@@ -90,7 +90,3 @@ To get a local copy up and running, follow these simple steps:
 Interested in contributing? Great! Please follow the next steps:
 
 Fork the repository. Create your feature branch (git checkout -b feature/AmazingFeature). Commit your changes (git commit -m 'Add some AmazingFeature'). Push to the branch (git push origin feature/AmazingFeature). Open a Pull Request.
-
-## Acknowledgements
-- The contributors and maintainers of all used open-source software. 
-15): 722-727.
