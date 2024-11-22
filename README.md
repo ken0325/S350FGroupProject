@@ -91,21 +91,6 @@ Interested in contributing? Great! Please follow the next steps:
 
 Fork the repository. Create your feature branch (git checkout -b feature/AmazingFeature). Commit your changes (git commit -m 'Add some AmazingFeature'). Push to the branch (git push origin feature/AmazingFeature). Open a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - The contributors and maintainers of all used open-source software. 
-
-## References
-- Hickson, Anthony. HTML, The living standard, 2014.
-- CSS, Cascading Style Sheets. "Cascading Style Sheets."(hämtad 2022-04-27).
-- Flanagan, David. JavaScript: The definitive guide: Activate your web pages. "O'Reilly Media, Inc.", 2011.
-- McLaughlin, Brett. PHP & MySQL: The Missing Manual. "O'Reilly Media, Inc.", 2012.
-- Stobart, Simon, and Mike Vassileiou. PHP and MySQL Manual: simple, yet powerful Web programming. Springer Science & Business Media, 2004.
-- Steinhoff, Sascha. "Evaluation of MySQL 8.0 Spatial Data Features."
-- Kumari, Punam, and Rainu Nandal. "A Research Paper On Website Development Optimization Using Xampp/PHP." International Journal of Advanced Research in Computer Science 8, no. 5 (2017).
-- Bhanderi, Dixita Dinesh. "Enhanced two factor authentication with MD5." PhD diss., California State University, Sacramento, 2021.
-- Peterson, Clarissa. Learning responsive web design: a beginner's guide. "O'Reilly Media, Inc.", 2014.
-- Zandstra, Matt, and Matt Zandstra. "Testing with PHPUnit." PHP Objects, Patterns, and Practice (2016): 435-464.
-- Chavan, Varsha, Priya Jadhav, Snehal Korade, and Priyanka Teli. "Implementing customizable food ordering and tracking app using web based application." International Journal of Innovative Science, Engineering & Technology 2, no. 4 (2015): 722-727.
+15): 722-727.
